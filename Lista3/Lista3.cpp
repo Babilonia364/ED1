@@ -1,5 +1,7 @@
 #include <iostream>
 
+//FAZER TUDO DO ZERO, TÁ TUDO ERRADO!!!
+
 using namespace std;
 
 //Nozinho
